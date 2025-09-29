@@ -1,0 +1,101 @@
+post_id,creator_id,content_type,tags
+P1,U44,video,"sports, food"
+P2,U26,video,"music, travel"
+P3,U32,text,"sports, travel"
+P4,U6,image,"music, gaming"
+P5,U32,image,"food, fashion"
+P6,U4,image,sports
+P7,U11,image,"food, fitness"
+P8,U17,audio,travel
+P9,U38,image,travel
+P10,U24,video,art
+P11,U5,video,"literature, fitness"
+P12,U34,video,fitness
+P13,U6,text,art
+P14,U22,text,"literature, music"
+P15,U11,text,tech
+P16,U48,image,tech
+P17,U16,video,"food, sports"
+P18,U33,image,fitness
+P19,U9,image,travel
+P20,U6,video,fitness
+P21,U16,image,"art, literature"
+P22,U29,audio,"sports, art"
+P23,U3,audio,"literature, food"
+P24,U20,audio,gaming
+P25,U36,image,gaming
+P26,U19,image,"food, fitness"
+P27,U26,audio,literature
+P28,U3,text,sports
+P29,U19,audio,"sports, music"
+P30,U20,audio,"music, sports"
+P31,U32,video,literature
+P32,U7,image,literature
+P33,U41,image,gaming
+P34,U33,video,"travel, sports"
+P35,U40,image,"fitness, food"
+P36,U39,image,"literature, fitness"
+P37,U18,text,"tech, music"
+P38,U40,audio,fitness
+P39,U1,video,"travel, sports"
+P40,U11,text,"sports, fitness"
+P41,U28,image,"fitness, tech"
+P42,U25,video,"travel, fashion"
+P43,U50,audio,"tech, gaming"
+P44,U23,image,music
+P45,U31,text,tech
+P46,U30,video,"food, sports"
+P47,U42,video,sports
+P48,U35,video,"sports, literature"
+P49,U7,video,"tech, gaming"
+P50,U16,image,sports
+P51,U26,image,tech
+P52,U48,video,"music, sports"
+P53,U49,video,"fashion, tech"
+P54,U2,video,"literature, music"
+P55,U1,audio,art
+P56,U48,text,"sports, tech"
+P57,U12,text,"sports, literature"
+P58,U5,video,"food, sports"
+P59,U37,video,gaming
+P60,U32,video,"music, sports"
+P61,U9,video,"literature, art"
+P62,U41,video,gaming
+P63,U35,image,"literature, music"
+P64,U19,image,"travel, fitness"
+P65,U48,image,sports
+P66,U16,text,"literature, art"
+P67,U3,image,sports
+P68,U20,text,food
+P69,U24,text,"fashion, food"
+P70,U33,image,"art, food"
+P71,U24,text,"literature, travel"
+P72,U11,image,"fitness, sports"
+P73,U49,image,travel
+P74,U8,video,"fitness, fashion"
+P75,U36,image,gaming
+P76,U38,image,"literature, travel"
+P77,U40,text,"fitness, literature"
+P78,U20,video,"sports, art"
+P79,U35,image,literature
+P80,U48,video,"travel, food"
+P81,U25,image,"gaming, fitness"
+P82,U35,image,"gaming, food"
+P83,U25,text,"art, music"
+P84,U29,text,music
+P85,U18,video,"food, gaming"
+P86,U46,video,food
+P87,U18,audio,art
+P88,U2,text,literature
+P89,U35,image,music
+P90,U16,video,literature
+P91,U41,image,tech
+P92,U36,text,"tech, food"
+P93,U33,image,fashion
+P94,U4,image,fitness
+P95,U33,audio,music
+P96,U14,video,"music, fashion"
+P97,U21,video,"travel, sports"
+P98,U48,text,tech
+P99,U20,image,"gaming, music"
+P100,U8,image,art
